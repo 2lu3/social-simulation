@@ -275,8 +275,7 @@ def main():
     trial_num = 3
     # 片側にmoving_average
     moving_average =  5
-    #record_steps = [50, 100, 150]
-    record_steps = [i for i in range(moving_average, 200)]
+    record_steps = [50, 100, 150]
     conditions = []
     #for supply_portion in [1.1]:
     #    for buying_number_limit in [50]:
