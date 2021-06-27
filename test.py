@@ -1,8 +1,6 @@
 import numpy as np
-hoge = [True for i in range(10)]
-huga = [True for i in range(10)]
 
-piyo = [hoge, huga]
-piyo = [np.array(value) for value in piyo]
+hoge = [i for i in range(10)]
+print(hoge)
 
-print(sum(piyo))
+print(hoge[-3:])
