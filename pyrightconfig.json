@@ -1,9 +1,0 @@
-{
-    "executionEnvironments": [
-        {
-            "root": "project_root",
-            "extraPaths": [
-            ]
-        }
-    ]
-}
